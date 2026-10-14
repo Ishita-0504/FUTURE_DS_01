@@ -76,9 +76,8 @@ The Power BI dashboard includes:
 
 ### Dashboard Screenshot
 
-Add your saved dashboard screenshot to the repository and update the path below if your filename or folder differs.
+<img width="1037" height="626" alt="image" src="https://github.com/user-attachments/assets/0b452a31-e2ed-4830-994d-7725cbdd807e" />
 
-![Online Retail Sales Dashboard](dashboard/Online_Retail_Dashboard.png)
 
 ## Key Insights
 
